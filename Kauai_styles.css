@@ -139,7 +139,7 @@ body{
 
   background-size: cover;
   background-position: center;
-  color: #fff;
+  
   padding: 40px 15px;
   margin-top: 20px;
 }
@@ -230,3 +230,4 @@ body{
 .clickable-flower{
   cursor: pointer;
 }
+
